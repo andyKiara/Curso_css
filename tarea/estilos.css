@@ -1,0 +1,60 @@
+.caja{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+}
+article{
+    height: 130px;
+    width: 33%;
+}
+.extre{
+background:red;}
+article{
+    height: 130px;
+    width: 33%;
+}
+.extremos{
+background:red;}
+
+    
+
+    .hola{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        border: 1px solid black;
+    }
+    article{
+        height: 130px;
+        width: 33%;
+    }
+    .derecho{
+        background:turquoise;}
+        article{
+            height: 130px;
+            width: 33%;
+        }
+        .derec{
+        background:turquoise;}
+
+        .que tal{
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+            border: 1px solid black;
+        }
+        article{
+            height: 1000px;
+            width: 50%;
+        }
+        .izquierdo{
+            background:black;}
+            article{
+                height: 110px;
+                width: 89%;
+            }
+            .izquier{
+            background:red;}
+            .medio{
+                background:yellow;}
